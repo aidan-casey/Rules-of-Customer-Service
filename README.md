@@ -1,4 +1,4 @@
-# Aidan's Rules of Customer Service
+# [WIP] Aidan's Rules of Customer Service
 
 Aidan is a particular person with opinions on how everything should be done. This repository is not for the faint of heart, tread carefully my friend.
 
